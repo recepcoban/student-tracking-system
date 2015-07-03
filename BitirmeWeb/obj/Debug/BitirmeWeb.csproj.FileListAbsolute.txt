@@ -1,0 +1,24 @@
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll.config
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.pdb
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.dll
+C:\Users\Vaio\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll.config
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.csprojResolveAssemblyReference.cache
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.dll
+C:\Users\Recep Çoban\Desktop\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll.config
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.csprojResolveAssemblyReference.cache
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll.config
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.dll
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\bin\BitirmeWeb.pdb
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.csprojResolveAssemblyReference.cache
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.dll
+C:\Users\Recep Çoban\Downloads\BitirmeProjesi - ÖTS\BitirmeWeb\BitirmeWeb\obj\Debug\BitirmeWeb.pdb
